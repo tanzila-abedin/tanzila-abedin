@@ -1,33 +1,47 @@
+# Hi there, I am Tanzila 👋  
+            
 
-
-<img src="https://media.giphy.com/media/l2JHZ0dIcyFo5UQGQ/giphy.gif" width="70"> 
-
-# Hi, I am Tanzila 👋 
-### <img src="Assets/code-wallpaper-preview.jpg">
-
-#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack Web developer student. 
+## I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
+I like collaborating with others to build digital solutions that solve real-world problems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
 [![Twitter Badge](https://img.shields.io/badge/-@TanzilaAbedin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TanzilaAbedin)](https://twitter.com/TanzilaAbedin)
 
-### A little more about me... 
+## A little more about me... 
+ 
+ ### 🌱I am currently learning: 
+   <ul>
+  <li> JavaScript </li> 
+  <li> React, </li>
+  <li>Redux </li>
+  <li>Ruby on Rails </li>
+  <li>HTML/CSS,Semantic UI,</li>
+  <li>Bootstrap </li>
+  <li> Tailwind CSS</li> 
+ </ul>
 
-```javascript
-const tanzilaAbedin = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 2+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  ### 💬You can ask me about :
+   <ul>
+   <li>Animal</li>
+   <li>food recipies</li>
+   <li> documentaries,</li>
+   </ul>
+
+   <strong> Work mantra :</strong>
+      
+  ```javascript
+  //BeautitudeMethod
+   {while (beHappy()){Code();}
 }
-```
+   ```
+
+## Github Stats :  
+![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzila-abedin&count_private=true)
 
 
-### GitHub stats:
+##  📫 How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
+[![Twitter Badge](https://img.shields.io/badge/-@TanzilaAbedin_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TanzilaAbedin)](https://twitter.com/TanzilaAbedin)
 
 
 <!--
