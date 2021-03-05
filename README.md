@@ -23,8 +23,8 @@ I like collaborating with others to build digital solutions that solve real-worl
   ### 💬You can ask me about :
    <ul>
    <li>Animal</li>
-   <li>food recipies</li>
-   <li> documentaries,</li>
+   <li>Food recipies</li>
+   <li>Documentaries,</li>
    </ul>
 
    ### ⚡ Work mantra :
