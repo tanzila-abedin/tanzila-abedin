@@ -1,6 +1,6 @@
 # Hi there, I am Tanzila 👋  
      
-![](https://img.shields.io/badge/Microverse-blueviolet) ![Profile views](https://gpvc.arturio.dev/tanzila-abedin)       
+![](https://img.shields.io/badge/Microverse-blueviolet)      
 
 I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
 I like collaborating with others to build digital solutions that solve real-world problems.
