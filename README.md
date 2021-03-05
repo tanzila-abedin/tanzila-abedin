@@ -13,10 +13,10 @@ I like collaborating with others to build digital solutions that solve real-worl
  ### 🌱I am currently learning: 
    <ul>
   <li> JavaScript </li> 
-  <li> React, </li>
+  <li> React </li>
   <li>Redux </li>
   <li>Ruby on Rails </li>
-  <li>HTML/CSS,Semantic UI,</li>
+  <li>HTML/CSS,Semantic UI</li>
   <li>Bootstrap </li>
   <li> Tailwind CSS</li> 
  </ul>
@@ -25,7 +25,7 @@ I like collaborating with others to build digital solutions that solve real-worl
    <ul>
    <li>Animal</li>
    <li>Food recipies</li>
-   <li>Documentaries,</li>
+   <li>Documentaries</li>
    </ul>
 
    ### ⚡ Work mantra :
@@ -33,7 +33,7 @@ I like collaborating with others to build digital solutions that solve real-worl
   ```javascript
   //BeautitudeMethod
    {while (beHappy()){Code();}
-}
+
    ```
 
 ## Github Stats : 
