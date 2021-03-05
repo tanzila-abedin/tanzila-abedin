@@ -1,7 +1,7 @@
 # Hi there, I am Tanzila 👋  
             
 
-## I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
+I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a full-stack Web developer student.<br>
 I like collaborating with others to build digital solutions that solve real-world problems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
@@ -27,7 +27,7 @@ I like collaborating with others to build digital solutions that solve real-worl
    <li> documentaries,</li>
    </ul>
 
-   <strong> Work mantra :</strong>
+   ### ⚡ Work mantra :
       
   ```javascript
   //BeautitudeMethod
@@ -35,9 +35,13 @@ I like collaborating with others to build digital solutions that solve real-worl
 }
    ```
 
-## Github Stats :  
-![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzila-abedin&count_private=true)
+## Github Stats : 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanzila-abedin)
+
+![tanzila-abedin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzila-abedin&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzila-abedin&theme=dracula)](https://github.com/tanzila-abedin/github-readme-stats)
 
 ##  📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanzila%20Abedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanzila-abedin-331440b2/)](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
