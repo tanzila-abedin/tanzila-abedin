@@ -1,6 +1,6 @@
 ### Hi, I am Tanzila 👋
 
-### <img src="Assets/code-wallpaper-preview.jpg">
+### <img src="Assets/code-wallpaper-preview.jpg>
 <!--
 **tanzila-abedin/tanzila-abedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
